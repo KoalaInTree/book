@@ -22,6 +22,7 @@
 《重构 改善既有代码的设计》 需要一些经验，拔高内容  
 
 部分只找到在线版的  
+[《On Java 8》中文版，又名《Java编程思想》 第5版](https://github.com/LingCoder/OnJava8)
 [TCP/IP详解 卷1：协议](http://www.52im.net/topic-tcpipvol1.html)  
 [Go 编程语言指南在线版](http://tour.studygolang.com/welcome/1)  
 [鸟哥私房菜在线版](https://linux.vbird.org/linux_basic/centos7/)
